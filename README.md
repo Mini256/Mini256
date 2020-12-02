@@ -1,5 +1,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Mini256&show_icons=true)
 
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Mini256&show_icons=true)
+
 <!--
 **Mini256/Mini256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

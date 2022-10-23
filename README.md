@@ -1,6 +1,6 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Mini256&show_icons=true)
 
-![Star History](https://hackathon2022-ossinsight-marketplace.vercel.app/api/panels/repository-stars-history/svg?repoId=41986369)
+![Most Used Language](https://hackathon2022-ossinsight-marketplace.vercel.app/api/panels/personal-most-used-language/svg?userId=5086433)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Mini256&show_icons=true)
 
